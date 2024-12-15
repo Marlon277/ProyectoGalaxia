@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/TipoDeEnemigo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/EnemigoAzul.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/IProyectible.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/EnemigoAmarillo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Tablero.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Presentador/PresentadorJugador.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/ProyectilNave.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Jugador.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/EnemigoRojo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/EnemigoMagenta.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Presentador/IPresentadorJuego.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Colisionable.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Vista/VistaJavaSwingGame.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/imagenes/amarillo.png</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Vista/VistaPrincipal.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Enemigo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Elemento.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Nave.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Puntuacion.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Presentador/PresentadorEnemigo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Vida.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Vista/VistaJavaFxGame.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Vista/Main.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Presentador/PresentadorNave.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Vista/IVista.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/ProyectilEnemigo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Posicion.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Presentador/PresentadorJuego.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/mvpGalaxiaGame/src/Modelo/Proyectil.java</file>
+        </group>
+    </open-files>
+</project-private>
